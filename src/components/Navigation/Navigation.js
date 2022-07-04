@@ -15,6 +15,9 @@ export const Navigation = () => {
         <li>
           <StyledNavLink to="/users">Random Users</StyledNavLink>
         </li>
+        <li>
+          <StyledNavLink to="/form">Demo Form</StyledNavLink>
+        </li>
       </ul>
     </nav>
   );
